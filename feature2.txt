@@ -1,2 +1,0 @@
-inside the git 2 feature branch
-hello mahi
